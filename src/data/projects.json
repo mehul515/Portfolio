@@ -1,0 +1,24 @@
+[
+    {
+      "id": "weatherJunction",
+      "title": "Weather Junction",
+      "description": "Weather Junction is a minimalist weather website built using React, designed to provide users with current weather information and forecasts. It offers a clean, user-friendly interface where users can quickly access weather data for their location or any specified city worldwide. It provides current weather conditions and basic forecasts, ensuring a straightforward and informative experience for users seeking quick weather updates. This project is a weather forecast website built using React.js and a public weather API, providing real-time weather updates for locations worldwide.",
+      "technologies": "React.JS, Material Ui",
+      "stack": "ReactJS",
+      "isDeployed": "yes",
+      "gitRepoLink": "https://github.com/mehul515/Weather-Junction",
+      "projectLink": "https://weatherjunction.netlify.app/",
+      "projectBanner": "/ProjectBanner/weather.png"
+    },
+    {
+      "id": "wanderlust",
+      "title": "Wanderlust",
+      "description": "Wanderlust is a dynamic web platform designed to ignite your passion for travel. Inspired by the success of platforms connecting travelers with unique accommodations worldwide, Wanderlust offers an intuitive interface where you can discover, explore, and review your next adventure seamlessly. Whether you're seeking a cozy cabin, an exotic beach retreat, or a chic urban loft, Wanderlust's diverse listings cater to every traveler's dream. Join a global community of explorers and hosts, share experiences, and redefine your travel journey today with Wanderlust. This project is a weather forecast website built using React.js and a public weather API, providing real-time weather updates for locations worldwide.",
+      "technologies": "HTML-5, CSS, JavaScript, Bootstrap, ejs, Express.js, MongoDB",
+      "stack": "HTML, CSS, JavaScript",
+      "isDeployed": "yes",
+      "gitRepoLink": "https://github.com/mehul515/Wanderlust",
+      "projectLink": "https://wanderlust-togt.onrender.com/listings",
+      "projectBanner": "/ProjectBanner/wanderlust.png"
+    }
+  ]

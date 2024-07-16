@@ -1,0 +1,26 @@
+[
+    {
+        "title": "SSC 10th Board",
+        "description": "I completed my SSC 10th Board in 2020 with a score of 92.40% from Veershaiva Madhyamik Vidyalaya, Nagpur.",
+        "timeline": {
+            "from": "2019",
+            "to": "2020"
+        }
+    },
+    {
+        "title": "HSC 12th Board",
+        "description": "I completed my HSC 12th Board (Science) in 2022 with a score of 87.67% from A. R. Fule Junior College, Nagpur.",
+        "timeline": {
+            "from": "2021",
+            "to": "2022"
+        }
+    },
+    {
+        "title": "B.Tech",
+        "description": "I am pursuing my B.Tech degree in Computer Science and Engineering from Yeshwantrao Chavan College of Engineering, Nagpur.",
+        "timeline": {
+            "from": "2022",
+            "to": "Present"
+        }
+    }
+]

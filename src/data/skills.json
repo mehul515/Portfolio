@@ -1,0 +1,62 @@
+[
+    {
+        "title": "HTML 5",
+        "image": "/SkillsImages/html.png"
+    },
+    {
+        "title": "CSS",
+        "image": "/SkillsImages/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "image": "/SkillsImages/javaScript.png"
+    },
+    {
+        "title": "React.JS",
+        "image": "/SkillsImages/react.png"
+    },
+    {
+        "title": "Next.JS",
+        "image": "/SkillsImages/nextJs.png"
+    },
+    {
+        "title": "Node.JS",
+        "image": "/SkillsImages/node.png"
+    },
+    {
+        "title": "Express.JS",
+        "image": "/SkillsImages/express.png"
+    },
+    {
+        "title": "MongoDB",
+        "image": "/SkillsImages/mongodb.png"
+    },
+    {
+        "title": "Tailwind",
+        "image": "/SkillsImages/tailwind.png"
+    },
+    {
+        "title": "Bootstrap",
+        "image": "/SkillsImages/bootstrap.png"
+    },
+    {
+        "title": "Shadcn UI",
+        "image": "/SkillsImages/shadcn.png"
+    },
+    {
+        "title": "C Language",
+        "image": "/SkillsImages/c.png"
+    },
+    {
+        "title": "Python",
+        "image": "/SkillsImages/python.png"
+    },
+    {
+        "title": "Java",
+        "image": "/SkillsImages/java.png"
+    },
+    {
+        "title": "Tensorflow",
+        "image": "/SkillsImages/tensorflow.png"
+    }
+]
