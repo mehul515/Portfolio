@@ -23,6 +23,8 @@ const About = () => {
           <div className="flex justify-center my-4 sm:my-10 gap-14">
             <div className="flex md:w-[80%] text-center flex-col tracking-[1px] text-xl gap-5">
               <p className="tracking-[1px] text-xl">{data.about[0]}</p>
+              <p className="tracking-[1px] text-xl">{data.about[1]}</p>
+              <p className="tracking-[1px] text-xl">{data.about[2]}</p>
             </div>
           </div>
 
